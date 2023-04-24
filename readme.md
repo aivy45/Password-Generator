@@ -1,6 +1,6 @@
 ### By Akshun Verma
 
-## Project Name: Weather App
+## Project Name: Password Generator App
 
 - In this project I have made password generator, which will generate random password according to the user demand, which will inculde (Upper case, lower case, numbers, symbols).
 
